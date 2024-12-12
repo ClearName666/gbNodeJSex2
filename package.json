@@ -1,0 +1,17 @@
+{
+  "name": "ex1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "number-precision": "^1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
